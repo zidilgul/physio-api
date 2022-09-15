@@ -1,0 +1,279 @@
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/appsettings.json
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.exe
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.deps.json
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.runtimeconfig.json
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.runtimeconfig.dev.json
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/ref/physio.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/physio.pdb
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Humanizer.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/idil.gul/source/repos/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.csproj.AssemblyReference.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.AssemblyInfoInputs.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.AssemblyInfo.cs
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.csproj.CoreCompileInputs.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.Manifest.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.xml
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/scopedcss/bundle/physio.styles.css
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.RazorTargetAssemblyInfo.cache
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.csproj.CopyComplete
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.dll
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/ref/physio.dll
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.pdb
+C:/Users/idil.gul/source/repos/physio/obj/Debug/net5.0/physio.genruntimeconfig.cache
+C:/Users/deniz/OneDrive/Desktop/api/physio/obj/Debug/net5.0/physio.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/appsettings.json
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.StaticWebAssets.xml
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.exe
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.deps.json
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.runtimeconfig.json
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.runtimeconfig.dev.json
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/physio.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Humanizer.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.csproj.AssemblyReference.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.AssemblyInfoInputs.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.AssemblyInfo.cs
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.csproj.CoreCompileInputs.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/scopedcss/bundle/physio.styles.css
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.Manifest.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.RazorTargetAssemblyInfo.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.csproj.CopyComplete
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/refint/physio.dll
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.pdb
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/physio.genruntimeconfig.cache
+C:/Users/deniz/OneDrive/Documents/idil/api/physio/obj/Debug/net5.0/ref/physio.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/appsettings.json
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.StaticWebAssets.xml
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.exe
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.deps.json
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.runtimeconfig.json
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.runtimeconfig.dev.json
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/ref/physio.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/physio.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Humanizer.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.csproj.AssemblyReference.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.AssemblyInfoInputs.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.AssemblyInfo.cs
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.csproj.CoreCompileInputs.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/scopedcss/bundle/physio.styles.css
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.Manifest.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.RazorTargetAssemblyInfo.cache
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.csproj.CopyComplete
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/ref/physio.dll
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.pdb
+C:/Users/BoranCagan/Desktop/bitirme 2/api/physio/obj/Debug/net5.0/physio.genruntimeconfig.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/appsettings.Development.json
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/appsettings.json
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/physio.deps.json
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/physio.runtimeconfig.json
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/physio.runtimeconfig.dev.json
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/physio.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/ref/physio.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/physio.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Humanizer.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.AssemblyReference.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.AssemblyInfoInputs.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.AssemblyInfo.cs
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.CoreCompileInputs.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.MvcApplicationPartsAssemblyInfo.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.Manifest.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.xml
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/scopedcss/bundle/physio.styles.css
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.RazorTargetAssemblyInfo.cache
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.CopyComplete
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/ref/physio.dll
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.pdb
+/Users/idil/Desktop/bitirme_220522/api/physio/obj/Debug/net5.0/physio.genruntimeconfig.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/appsettings.Development.json
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/appsettings.json
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/physio.deps.json
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/physio.runtimeconfig.json
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/physio.runtimeconfig.dev.json
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/physio.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/ref/physio.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/physio.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Humanizer.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.AssemblyReference.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.AssemblyInfoInputs.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.AssemblyInfo.cs
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.CoreCompileInputs.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.MvcApplicationPartsAssemblyInfo.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.Manifest.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/staticwebassets/physio.StaticWebAssets.xml
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/scopedcss/bundle/physio.styles.css
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.RazorTargetAssemblyInfo.cache
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.csproj.CopyComplete
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/ref/physio.dll
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.pdb
+/Users/idil/Documents/AAAOKUL/bitirme_220522/api/physio/obj/Debug/net5.0/physio.genruntimeconfig.cache
